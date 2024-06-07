@@ -1,2 +1,2 @@
 Progetto 3 (Slider)
-Visualiizza: https://slider-andrea.netlify.app/
+Visualizza: https://slider-andrea.netlify.app/
